@@ -51,7 +51,7 @@
 /* || FONT STYLING */
 
   * {
-  font-family: roboto, calibri, "sans serif"
+  font-family: roboto, calibri, sans-serif;
   }
 
   .info-title,
