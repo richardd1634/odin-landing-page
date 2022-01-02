@@ -6,8 +6,8 @@ The second project in the foundation path of the odin project.
 Only html and css
 
 photos provided by:
-  firework1 - Sajjad Naqvi
-  firework2 - Kristina Paukshtite
-  firework3 - Tomas Anunziata
-  firework4 - Sebastian Hietsch
-  firework5 - Harrison Haines
+  hero photo - Sajjad Naqvi
+  card 1 photo - Kristina Paukshtite
+  card 2 photo - Tomas Anunziata
+  card 3 photo - Sebastian Hietsch
+  card 4 photo - Harrison Haines
